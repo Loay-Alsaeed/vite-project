@@ -1,0 +1,12 @@
+.bg-transparent {
+  background-color: transparent;
+}
+button {
+    border: none;
+}
+button:focus {
+    border: none;
+}
+button::selection {
+    border: none;
+}
